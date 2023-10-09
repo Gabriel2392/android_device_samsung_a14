@@ -39,7 +39,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,device/samsung/a14/recover
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := twrp_a14
 PRODUCT_DEVICE := a14
-PRODUCT_MODEL := SM-A146B
+PRODUCT_MODEL := SM-A145F
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
